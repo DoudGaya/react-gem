@@ -11,7 +11,6 @@ function App() {
    <>
     <BrowserRouter>
     <Routes>
-      {/* <App /> */}
       <Route path='/' element={<Home />} />
       <Route path='/recipe' element={<Recipe />} />
     </Routes>
