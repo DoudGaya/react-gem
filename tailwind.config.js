@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ], // 08062249834
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        banner: ['DM Serif Display', 'serif']
+      }
+    },
   },
   plugins: [],
 }
