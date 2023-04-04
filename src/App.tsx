@@ -5,9 +5,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-  <div className="">
-    something good 
-  </div>
+  <div className="">Something Good </div>
   )
 }
 
